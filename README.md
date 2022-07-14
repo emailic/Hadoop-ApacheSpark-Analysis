@@ -5,4 +5,15 @@ Thus,  a cluster computing framework was used: Hadoop/Apache Spark.
 Various ML techniques were deployed: Classification, Clustering, Regression, DImensionality Reduction, Feature Engineering, etc.
 
 
-Most notebooks have the comments added in Italian language, as this project was done at the University of Pisa.
+NOTE: Most notebooks have the comments added in Italian language, sorry for that! I'm available to clarify anything, just get in touch.
+
+
+</br>
+Contrbutions are more than welcome!
+
+
+<div align="center">
+
+### Show some 💚 by starring this repository!
+
+</div>
